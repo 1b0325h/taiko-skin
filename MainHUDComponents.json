@@ -159,6 +159,31 @@
       },
       {
         "Type": "osu.Game.Screens.Play.HUD.ArgonSongProgress, osu.Game, Version=2025.1029.1.0, Culture=neutral, PublicKeyToken=null",
+        "Type": "osu.Game.Screens.Play.HUD.HitErrorMeters.BarHitErrorMeter, osu.Game, Version=2026.102.1.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": 0.0,
+          "y": 50.0
+        },
+        "Rotation": 90.0,
+        "Scale": {
+          "x": -1.5,
+          "y": 1.5
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 18,
+        "Origin": 18,
+        "UsesFixedAnchor": true,
+        "Settings": {
+          "judgement_line_thickness": 3.0,
+          "colour_bar_visibility": true,
+          "show_moving_average": true,
+          "centre_marker_style": 1,
+          "label_style": 2
+        },
+        "Children": []
+      },
+      {
         "Position": {
           "x": 0.0,
           "y": -10.0
