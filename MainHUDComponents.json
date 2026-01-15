@@ -3,7 +3,7 @@
   "DrawableInfo": {
     "global": [
       {
-        "Type": "osu.Game.Screens.Play.HUD.ArgonWedgePiece, osu.Game, Version=2025.1029.1.0, Culture=neutral, PublicKeyToken=null",
+        "Type": "osu.Game.Screens.Play.HUD.ArgonWedgePiece, osu.Game, Version=2026.102.1.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
           "x": -50.0,
           "y": 15.0
@@ -25,7 +25,7 @@
         "Children": []
       },
       {
-        "Type": "osu.Game.Screens.Play.HUD.ArgonWedgePiece, osu.Game, Version=2025.1029.1.0, Culture=neutral, PublicKeyToken=null",
+        "Type": "osu.Game.Screens.Play.HUD.ArgonWedgePiece, osu.Game, Version=2026.102.1.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
           "x": -46.0,
           "y": 20.0
@@ -47,7 +47,7 @@
         "Children": []
       },
       {
-        "Type": "osu.Game.Screens.Play.HUD.ArgonScoreCounter, osu.Game, Version=2025.1029.1.0, Culture=neutral, PublicKeyToken=null",
+        "Type": "osu.Game.Screens.Play.HUD.ArgonScoreCounter, osu.Game, Version=2026.102.1.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
           "x": 250.0,
           "y": 50.0
@@ -69,7 +69,7 @@
         "Children": []
       },
       {
-        "Type": "osu.Game.Screens.Play.HUD.ArgonHealthDisplay, osu.Game, Version=2025.1029.1.0, Culture=neutral, PublicKeyToken=null",
+        "Type": "osu.Game.Screens.Play.HUD.ArgonHealthDisplay, osu.Game, Version=2026.102.1.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
           "x": 50.0,
           "y": 20.0
@@ -91,7 +91,7 @@
         "Children": []
       },
       {
-        "Type": "osu.Game.Skinning.Components.BoxElement, osu.Game, Version=2025.1029.1.0, Culture=neutral, PublicKeyToken=null",
+        "Type": "osu.Game.Skinning.Components.BoxElement, osu.Game, Version=2026.102.1.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
           "x": 0.0,
           "y": 30.0
@@ -113,7 +113,7 @@
         "Children": []
       },
       {
-        "Type": "osu.Game.Screens.Play.HUD.ArgonAccuracyCounter, osu.Game, Version=2025.1029.1.0, Culture=neutral, PublicKeyToken=null",
+        "Type": "osu.Game.Screens.Play.HUD.ArgonAccuracyCounter, osu.Game, Version=2026.102.1.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
           "x": -20.0,
           "y": 20.0
@@ -136,7 +136,7 @@
         "Children": []
       },
       {
-        "Type": "osu.Game.Screens.Play.HUD.ArgonPerformancePointsCounter, osu.Game, Version=2025.1029.1.0, Culture=neutral, PublicKeyToken=null",
+        "Type": "osu.Game.Screens.Play.HUD.ArgonPerformancePointsCounter, osu.Game, Version=2026.102.1.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
           "x": -20.0,
           "y": 72.0
@@ -158,7 +158,6 @@
         "Children": []
       },
       {
-        "Type": "osu.Game.Screens.Play.HUD.ArgonSongProgress, osu.Game, Version=2025.1029.1.0, Culture=neutral, PublicKeyToken=null",
         "Type": "osu.Game.Screens.Play.HUD.HitErrorMeters.BarHitErrorMeter, osu.Game, Version=2026.102.1.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
           "x": 0.0,
@@ -184,6 +183,7 @@
         "Children": []
       },
       {
+        "Type": "osu.Game.Screens.Play.HUD.ArgonSongProgress, osu.Game, Version=2026.102.1.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
           "x": 0.0,
           "y": -10.0
@@ -209,7 +209,7 @@
     ],
     "taiko": [
       {
-        "Type": "osu.Game.Screens.Play.HUD.DrawableGameplayLeaderboard, osu.Game, Version=2025.1029.1.0, Culture=neutral, PublicKeyToken=null",
+        "Type": "osu.Game.Screens.Play.HUD.DrawableGameplayLeaderboard, osu.Game, Version=2026.102.1.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
           "x": 35.0,
           "y": -140.0
@@ -230,7 +230,7 @@
         "Children": []
       },
       {
-        "Type": "osu.Game.Screens.Play.HUD.ArgonComboCounter, osu.Game, Version=2025.1029.1.0, Culture=neutral, PublicKeyToken=null",
+        "Type": "osu.Game.Screens.Play.HUD.ArgonComboCounter, osu.Game, Version=2026.102.1.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
           "x": 40.0,
           "y": -75.0
